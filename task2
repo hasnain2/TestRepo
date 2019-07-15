@@ -4,6 +4,7 @@ int main(){
 /* This is dummy text in my file. 
 There is some more code
 */
+
 //another change is mae
 
 //This is for branch a file
@@ -11,5 +12,9 @@ There is some more code
 
 /* this is branch a
 
+//another change is
+
+
+//this is B
 
 }
